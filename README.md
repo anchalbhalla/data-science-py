@@ -12,4 +12,6 @@ https://github.com/anchalbhalla/data-science-py/blob/master/ObjectsAndClasses.ip
 https://github.com/anchalbhalla/data-science-py/blob/master/DataStructures.ipynb
 
 <b>Notebook 4</b> - Work with data using pandas and NumPy : <br>
-https://github.com/anchalbhalla/data-science-py/blob/master/DataAndNumPy.ipynb 
+https://github.com/anchalbhalla/data-science-py/blob/master/DataAndNumPy.ipynb  
+
+<b>Image Classification notebook</b> - A CNN model is trained using different animal images and then used to classify them accordingly:<br>
