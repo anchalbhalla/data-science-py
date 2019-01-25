@@ -15,3 +15,4 @@ https://github.com/anchalbhalla/data-science-py/blob/master/DataStructures.ipynb
 https://github.com/anchalbhalla/data-science-py/blob/master/DataAndNumPy.ipynb  
 
 <b>Image Classification notebook</b> - A CNN model is trained using different animal images and then used to classify them accordingly:<br>
+https://github.com/anchalbhalla/data-science-py/blob/master/Image-Classification-Demo.ipynb
